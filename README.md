@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morloken" alt="morloken" /></a> </p>
 
-- 🌱 I’m currently learning: **Node.js and additions to it 👾**
+- 🌱 I’m currently learning: **React.js and some additions to this framework 👾**
 
 - 👯 I’m looking to collaborate on: **Everything 😎**
 
-- 🎯 Next in order will be: **React.js 🎇**
+- 🎯 Next in order will be: **Vue.js 🎇**
 
 - 📫 How to reach me **https://t.me/Morloken 👨‍💻**
 
