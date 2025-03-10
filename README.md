@@ -11,14 +11,14 @@
 
 - 🎯 Next in order will be: **Vue.js 🎇**
 
-- 📫 How to reach me **https://t.me/Morloken 👨‍💻**
-
 - ⚡ Fun fact **I love pasta with meatballs ☜(ﾟヮﾟ☜)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/illarynov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="illarynov" height="30" width="40" /></a>
-<a href="https://discord.gg/morloken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="morloken" height="30" width="40" /></a>
+
+
+<a href="https://t.me/Morloken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="morloken" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
